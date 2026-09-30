@@ -1,0 +1,282 @@
+[
+    {
+        "content": "1. Zapis znacznika HTML w postaci",
+        "odpA": " A. jest niepoprawny, w atrybucie href należy podać adres URL",
+        "odpB": " B. jest poprawny, po wybraniu odnośnika aktualna strona zostanie przewinięta do elementu o nazwie \"hobby\"",
+        "odpC": " C. jest niepoprawny, zastosowano błędnie znak # w atrybucie href",
+        "odpD": " D. jest poprawny, po wybraniu odnośnika otworzy się strona internetowa o adresie \"hobby\""
+    },
+    {
+        "content": "2. W bazie danych sklepu komputerowego istnieje tabela komputery. Aby zdefiniować raport wyświetlający dla dowolnego zbioru danych tabeli, jedynie pola tabeli dla komputerów, w których jest nie mniej niż 8 GB pamięci, a procesor to Intel, można posłużyć sie kwerendą",
+        "odpA": " A. SELECT * FROM komputery WHERE procesor = \"Intel\" AND pamiec < 8;",
+        "odpB": " B. SELECT * FROM komputery WHERE procesor = \"Intel\" OR pamiec >= 8;",
+        "odpC": " C. SELECT * FROM komputery WHERE procesor = \"Intel\" AND pamiec >= 8;",
+        "odpD": " D. SELECT * FROM komputery WHERE procesor = \"Intel\" OR pamiec < 8;"
+    },
+    {
+        "content": "3. Jak nazywa się metoda sortowania polegająca na podziale na n przedziałów jednakowej długości, w których następuje sortowanie, po czym posortowane zawartości przedziałów są poddawane analizie i prezentacji?",
+        "odpA": " A. Sortowanie przez wybór.",
+        "odpB": " B. Sortowanie kubełkowe.",
+        "odpC": " C. Sortowanie szybkie.",
+        "odpD": " D. Sortowanie bąbelkowe."
+    },
+    {
+        "content": "4. W języku JavaScript wynik działania instrukcji zmienna1 –= 1; będzie taki sam, jak instrukcji",
+        "odpA": " A. zmienna1++;",
+        "odpB": " B. zmienia1 = zmienna1 - 0;",
+        "odpC": " C. zmienna1 === zmienna1 - 1;",
+        "odpD": " D. zmienna1––;"
+    },
+    {
+        "content": "5. W języku JavaScript instrukcję a++; można inaczej zapisać jako",
+        "odpA": " A. 1+=a;",
+        "odpB": " B. a=a+1;",
+        "odpC": " C. a<<1;",
+        "odpD": " D. a&1;"
+    },
+    {
+        "content": "6. Tekst paragrafu, wyśrodkowany w pionie, opisuje w CSS reguła",
+        "odpA": " A. vertical-align: center",
+        "odpB": " B. align: middle",
+        "odpC": " C. vertical-align: middle",
+        "odpD": " D. text-align: center"
+    },
+    {
+        "content": "7. W języku HTML, aby zdefiniować hiperłącze otwierające się w osobnej karcie przeglądarki, należy zastosować atrybut",
+        "odpA": " A. rel = \"prev\"",
+        "odpB": " B. target = \"_new\"",
+        "odpC": " C. rel = \"external\"",
+        "odpD": " D. target = \"_blank\""
+    },
+    {
+        "content": "8. W języku HTML informacje dotyczące autora, streszczenia i słów kluczowych strony należy umieścić",
+        "odpA": " A. pomiędzy znacznikami <body> i </body>, w znaczniku <html>",
+        "odpB": " B. pomiędzy znacznikami <head> i </head>, w znaczniku <meta>",
+        "odpC": " C. pomiędzy znacznikami <head> i </head>, w znaczniku <style>",
+        "odpD": " D. pomiędzy znacznikami <body> i </body>, w znaczniku <meta>"
+    },
+    {
+        "content": "9. Dana jest tabela uczniowie, do której wpisano rekordy jak na rysunku. Co będzie wynikiem działania przedstawionego zapytania SQL?",
+        "odpA": " A. Suma ocen równa 14",
+        "odpB": " B. Liczba wierszy równa 4",
+        "odpC": " C. Wartość 3.5",
+        "odpD": " D. Dane 4, 3, 4, 3"
+    },
+    {
+        "content": "10. Które z tych rozszerzeń NIE JEST rozszerzeniem pliku video?",
+        "odpA": " A. AVI",
+        "odpB": " B. GIF",
+        "odpC": " C. MOV",
+        "odpD": " D. MP4"
+    },
+    {
+        "content": "11. W języku JavaScript, aby wydzielić fragment napisu znajdujący się pomiędzy wskazanymi przez parametr indeksami należy użyć metody",
+        "odpA": " A. slice()",
+        "odpB": " B. trim()",
+        "odpC": " C. concat()",
+        "odpD": " D. replace()"
+    },
+    {
+        "content": "12. Zamieszczony kod HTML formularza zostanie wyświetlony przez przeglądarkę w sposób:",
+        "odpA": " A. A",
+        "odpB": " B. B",
+        "odpC": " C. C",
+        "odpD": " D. D"
+    },
+    {
+        "content": "13. Zapytanie z klauzulą JOIN stosuje się, aby",
+        "odpA": " A. uzyskać wyniki z dwóch tabel pozostających ze sobą w relacji",
+        "odpB": " B. zdefiniować klucz obcy dla tabeli",
+        "odpC": " C. wywołać funkcję agregującą",
+        "odpD": " D. otrzymać wynik jedynie z jednej tabeli"
+    },
+    {
+        "content": "14. Zapisując hasło użytkownika serwisu WWW (np. bankowości internetowej), w celu jego zabezpieczenia przed odtajnieniem, zwykle używa się funkcji",
+        "odpA": " A. cyklometrycznych",
+        "odpB": " B. klucza",
+        "odpC": " C. abstrakcyjnych",
+        "odpD": " D. mieszających"
+    },
+    {
+        "content": "15. Formatem plików dźwiękowych z kompresją bezstratną jest",
+        "odpA": " A. FLAC",
+        "odpB": " B. WAW",
+        "odpC": " C. MP3",
+        "odpD": " D. MPEG"
+    },
+    {
+        "content": "16. Baza danych zawiera tabelę faktury o polach: numer, data, id_klienta, wartość, status. Każdego dnia generowany jest raport faktur z bieżącego dnia. Wyświetlane są jedynie numery i wartości faktur. Która z kwerend SQL służy do stworzenia tego raportu?",
+        "odpA": " A. SELECT * FROM faktury WHERE data=CURRENT_DATE();",
+        "odpB": " B. SELECT * FROM faktury;",
+        "odpC": " C. SELECT numer,wartość FROM faktury;",
+        "odpD": " D. SELECT numer, wartosc FROM faktury WHERE data=CURRENT_DATE();"
+    },
+    {
+        "content": "17. W celu zapewnienia spójności danych w bazie programu Microsoft Access należy skorzystać",
+        "odpA": " A. z archiwizacji bazy",
+        "odpB": " B. z defragmentacji bazy",
+        "odpC": " C. z kwerendy aktualizującej",
+        "odpD": " D. z więzów integralności"
+    },
+    {
+        "content": "18. Deklaracja typu dokumentu HTML: <!DOCTYPE HTML> oznacza, że kod jest napisany w wersji",
+        "odpA": " A. 7",
+        "odpB": " B. 6",
+        "odpC": " C. 5",
+        "odpD": " D. 4"
+    },
+    {
+        "content": "19. Znacznik języka HTML, który służy do oznaczenia fragmentu tekstu jako kodu komputerowego, to",
+        "odpA": " A. <span> </span>",
+        "odpB": " B. <blockquote> </blockquote>",
+        "odpC": " C. <em> </em>",
+        "odpD": " D. <code> </code>"
+    },
+    {
+        "content": "20. Aby w tworzonej w języku SQL tabeli praca dodać w kolumnie stawka warunek, że musi przyjmować rzeczywiste wartości dodatnie mniejsze od 50, należy użyć zapisu",
+        "odpA": " A. ... stawka float CHECK(stawka IN (0, 50.00))",
+        "odpB": " B. ... stawka float CHECK(stawka>0 AND stawka<50.00)",
+        "odpC": " C. ... stawka float CHECK(stawka BETWEEN 0 AND 50.00)",
+        "odpD": " D. ... stawka float CHECK(stawka>0 OR stawka<50.00)"
+    },
+    {
+        "content": "21. Formatem bezstratnej kompresji dźwięku jest",
+        "odpA": " A. WWA",
+        "odpB": " B. MP3",
+        "odpC": " C. FLAC",
+        "odpD": " D. AAC"
+    },
+    {
+        "content": "22. Polecenie w języku SQL ALTER TABLE USA... ma za zadanie",
+        "odpA": " A. nadpisanie starej tabeli USA",
+        "odpB": " B. modyfikację tabeli USA",
+        "odpC": " C. utworzenie nowej tabeli USA",
+        "odpD": " D. usunięcie tabeli USA"
+    },
+    {
+        "content": "23. Wskaż wynik wykonania skryptu napisanego w języku PHP",
+        "odpA": " A. A",
+        "odpB": " B. B",
+        "odpC": " C. C",
+        "odpD": " D. D"
+    },
+    {
+        "content": "24. Znaczniki HTML <strong> oraz <em> służące do podkreślenia ważności tekstu, pod względem formatowania są odpowiednikami znaczników",
+        "odpA": " A. <b> oraz <u> ",
+        "odpB": " B. <i> oraz <mark>",
+        "odpC": " C. <b> oraz <i>",
+        "odpD": " D. <u> oraz <sup>"
+    },
+    {
+        "content": "25. Połączenie dwóch barw leżących po przeciwnych stronach w kole barw jest połączeniem",
+        "odpA": " A. trójkątnym",
+        "odpB": " B. sąsiadującym",
+        "odpC": " C. dopełniającym",
+        "odpD": " D. monochromatycznym"
+    },
+    {
+        "content": "26. Wskaż poprawną zasadę dotyczącą spójności danych w bazie danych",
+        "odpA": " A. pole klucza podstawowego nie może być puste",
+        "odpB": " B. w relacji 1..n pole klucza obcego jest połączone z polem klucza obcego innej tabeli",
+        "odpC": " C. pole klucza obcego nie może być puste",
+        "odpD": " D. pole klucza podstawowego musi posiadać utworzony indeks"
+    },
+    {
+        "content": "27. W MS SQL Server polecenie RESTORE DATABASE służy do",
+        "odpA": " A. odświeżenia bazy danych z kontrolą więzów integralności",
+        "odpB": " B. odtworzenia bazy danych z kopii bezpieczeństwa",
+        "odpC": " C. usunięcia bazy danych z serwera centralnego subskrybenta",
+        "odpD": " D. przebudowania bazy danych w oparciu o buforowane dane"
+    },
+    {
+        "content": "28. W bazie danych samochodów pole kolor z tabeli samochody przyjmuje wartości kolorów jedynie ze słownika lakier. Aby połączyć tabele samochody i lakier relacją należy, zastosować kwerendę",
+        "odpA": " A. ALTER TABLE lakier ADD FOREIGN KEY (barwa) REFERENCES samochody(kolor);",
+        "odpB": " B. ALTER TABLE samochody ADD FOREIGN KEY kolor REFERENCES lakier;",
+        "odpC": " C. ALTER TABLE samochody ADD FOREIGN KEY (kolor) REFERENCES lakier(lakierId);",
+        "odpD": " D. ALTER TABLE samochody ADD FOREIGN KEY barwa REFERENCES samochody.lakier;"
+    },
+    {
+        "content": "29. Dana jest tabela pracownicy o polach id, nazwisko, imie, wynagrodzenie. Kolumnę wynagrodzenie można usunąć za pomocą instrukcji",
+        "odpA": " A. ALTER TABLE pracownicy DELETE wynagrodzenie;",
+        "odpB": " B. ALTER TABLE pracownicy DELETE COLUMN wynagrodzenie;",
+        "odpC": " C. ALTER TABLE pracownicy DROP COLUMN wynagrodzenie;",
+        "odpD": " D. DROP TABLE pracownicy DELETE COLUMN wynagrodzenie;"
+    },
+    {
+        "content": "30. Typ zmiennej w języku JavaScript",
+        "odpA": " A. musi być zadeklarowany na początku skryptu",
+        "odpB": " B. następuje poprzez przypisanie wartości",
+        "odpC": " C. nie występuje ",
+        "odpD": " D. jest tylko jeden"
+    },
+    {
+        "content": "31. W języku CSS wartości: underline, overline, line-through oraz blink dotyczą właściwości",
+        "odpA": " A. font-decoration",
+        "odpB": " B. text-decoration",
+        "odpC": " C. font-style",
+        "odpD": " D. text-align"
+    },
+    {
+        "content": "32. W bazie danych MySQL, aby wyświetlić wszystkie prawa nadane użytkownikowi anna, można posłużyć się poleceniem",
+        "odpA": " A. GRANT * TO anna;",
+        "odpB": " B. SHOW GRANTS FOR anna;",
+        "odpC": " C. REVOKE GRANTS FROM anna;",
+        "odpD": " D. SELECT GRANTS FOR anna;"
+    },
+    {
+        "content": "33. Jakiego znacznika należy użyć, aby przejść do kolejnej linii tekstu, nie tworząc akapitu na stronie interenetowej?",
+        "odpA": " A. </b>",
+        "odpB": " B. <br>",
+        "odpC": " C. <p>",
+        "odpD": " D. </br>"
+    },
+    {
+        "content": "34. Ile razy należy zapisać instrukcję warunkową, aby zaimplementować w języku programowania przedstawiony algorytm? ",
+        "odpA": " A. Cztery razy.",
+        "odpB": " B. Trzy razy. ",
+        "odpC": " C. Jeden raz.",
+        "odpD": " D. Dwa razy."
+    },
+    {
+        "content": "35. Baza danych zawiera tabele artykuły z polami: nazwa, typ, producent, cena. Aby wyświetlić wszystkie nazwy artykułów wyłącznie typu pralka, dla których cena jest z przedziału 1000 PLN i 1500 PLN, należy zastosować polecenie",
+        "odpA": " A. SELECT nazwa FROM artykuly WHERE typ=\"pralka\" AND cena BETWEEN 1000 AND 1500;",
+        "odpB": " B. SELECT nazwa FROM artykuly WHERE typ=\"pralka\" OR cena BETWEEN 1000 OR 1500;",
+        "odpC": " C. SELECT nazwa FROM artykuly WHERE typ=\"pralka\" AND cena FROM 1000 TO 1500;",
+        "odpD": " D. SELECT nazwa FROM artykuly WHERE typ=\"pralka\" OR cena BETWEEN 1000 AND 1500;"
+    },
+    {
+        "content": "36. Najprostszy sposób zamiany obiektu oznaczonego cyfrą 1 na obiekt oznaczony cyfrą 2 polega na",
+        "odpA": " A. narysowaniu docelowego obiektu",
+        "odpB": " B. zmianie warstwy obiektu",
+        "odpC": " C. geometrycznym transformowaniu obiektu",
+        "odpD": " D. animowaniu obiektu"
+    },
+    {
+        "content": "37.  Wskaż definicję metody, którą należy wstawić w miejscu kropek, aby na stronie WWW wyświetlił się tekst: Jan Kowalski",
+        "odpA": " A. A",
+        "odpB": " B. B",
+        "odpC": " C. C",
+        "odpD": " D. D"
+    },
+    {
+        "content": "38. Przedstawiona funkcja zapisana w języku JavaScript ma za zadanie",
+        "odpA": " A. zwrócić wartość odwrotną do f",
+        "odpB": " B. wypisać wartość odwrotną do f",
+        "odpC": " C. wypisać wartość bezwzględną z f",
+        "odpD": " D. zwrócić wartość bezwzględną z f"
+    },
+    {
+        "content": "39. DOM dostarcza metod i własności, które w języku JavaScript pozwalają na",
+        "odpA": " A. wysłanie danych formularza bezpośrednio do bazy danych",
+        "odpB": " B. wykonywanie operacji na zmiennych przechowujących liczby",
+        "odpC": " C. manipulowanie zadeklarowanymi w kodzie łańcuchami",
+        "odpD": " D. pobieranie i modyfikowanie elementów strony wyświetlonej przez przeglądarkę"
+    },
+    {
+        "content": "40. Kwalifikatory dostępu: private, protected i public definiują mechanizm",
+        "odpA": " A. rekurencji.",
+        "odpB": " B. polimorfizmu.",
+        "odpC": " C. przeładowania.",
+        "odpD": " D. hermetyzacji."
+    }
+]

@@ -1,5 +1,5 @@
 # %%
-!pip install beautifulsoup4 requests json
+ !pip install beautifulsoup4 requests json
 
 # %%
 from bs4 import BeautifulSoup
@@ -38,5 +38,3 @@ for i in range(0,40):
 questions
 with open("dane.json", "w", encoding="utf-8") as plik:
     json.dump(questions, plik, ensure_ascii=False, indent=4)
-
-
